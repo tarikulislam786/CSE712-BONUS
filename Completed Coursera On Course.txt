@@ -1,5 +1,0 @@
-Name: Md Tarikul Islam
-Id: 21166020
-Course Title: Google Cloud Platform BigData And Machine
-Learning Fundamentals.
-Credentials: https://www.coursera.org/account/accomplishments/certificate/SYNPKAUA4MWF
